@@ -11,7 +11,7 @@ Sou apaixonado por resolver problemas práticos com inteligência artificial. Te
 - **Agentes de IA personalizados** com LLMs (OpenAI, Gemini, Groq)
 - **Automação de processos** com n8n, Supabase, APIs e bancos PostgreSQL
 - **Atendimento inteligente via WhatsApp**, com sistemas de agendamento, follow-up e triagem automática
-- **Integração entre plataformas** como Slack, ClickUp, Notion, ActiveCampaign, Meta Ads e Google Ads
+- **Integração entre plataformas** como Slack, ClickUp, Notion, ActiveCampaign, Ecommerce, Meta Ads e Google Ads
 
 ---
 
@@ -28,17 +28,17 @@ Sou apaixonado por resolver problemas práticos com inteligência artificial. Te
 
 ## 🧠 Alguns projetos
 
-### 🔹 Agente de WhatsApp para imobiliária  
-Sistema multiagente com IA para triagem de perfil, agendamento de visitas, envio de documentos e follow-up automático.
+### 🔹 Agente de WhatsApp para Atendimento  
+Sistema multiagente com IA para triagem de perfil, agendamentos, envio de documentos e follow-up automático.
 
-### 🔹 Recomendador de livros com IA  
+### 🔹 Recomendador de produtos com IA  
 Assistente conversacional com LLM, banco de dados vetorial e histórico por usuário. Integração com Supabase e OpenAI.
 
-### 🔹 Automação de carrinhos abandonados  
-Sistema integrado com WhatsApp e plataformas de venda para recuperar leads e aumentar conversão com IA.
+### 🔹 Automação de vendas abandonadas  
+Sistema integrado com WhatsApp e plataformas de vendas para recuperar leads e aumentar conversão com IA.
 
 ### 🔹 Painéis e relatórios automatizados de tráfego pago  
-Leitura da API Meta/Google, processamento com Python e envio semanal via Slack e ClickUp.
+Leitura da API Meta/Google, analise e processamento com IA, envio semanal para canais de gerenciamento e criação de dashboards.
 
 ---
 
