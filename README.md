@@ -46,7 +46,7 @@ Leitura da API Meta/Google, analise e processamento com IA, envio semanal para c
 
 - ✉️ edmar.albinosilva@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/edmar-silva)  
-- 🌐 [Portfólio (em breve)](https://agenciavetor.com.br/edmar-silva)  
+- 🌐 [Portfólio](https://agenciavetor.com.br/edmar-silva)  
 
 ---
 
